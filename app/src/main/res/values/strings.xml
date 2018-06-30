@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praeco</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_contacts">Kişiler</string>
+    <string name="title_chats">Mesajlar</string>
+    <string name="title_groups">Gruplar</string>
+</resources>
